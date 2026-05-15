@@ -1,6 +1,6 @@
 # Hey, I'm Andrés González 👋
 
-![Banner](banner.webp)
+![Banner](banner.svg)
 
 <p align="left">
 
