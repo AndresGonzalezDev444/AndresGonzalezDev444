@@ -1,4 +1,4 @@
-# ¡Hola! Soy Andrés González 👋
+# Hey, I'm Andrés González 👋
 
 ![Banner](banner.png)
 
@@ -60,7 +60,6 @@ Cuento con **más de 2 años de experiencia** en soporte técnico y redes, lo qu
 
 * **Portafolio:** [andresgonzalezdev.netlify.app](https://andresgonzalezdev.netlify.app/)
 
-* **Correo:** [robinsonandresgonzalez2006@gmail.com](mailto:robinsonandresgonzalez2006@gmail.com)
 
 
 
