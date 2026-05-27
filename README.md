@@ -36,7 +36,7 @@ Cuento con **más de 2 años de experiencia** en soporte técnico y redes, lo qu
 
 * **Lenguajes:** Python, Java, C++
 
-* **Desarrollo Web:** HTML, CSS, JavaScript, JSP, TailwindCSS
+* **Desarrollo Web:** HTML, CSS, JavaScript, JSP, TailwindCSS, React
 
 * **Bases de Datos:** MySQL, MongoDB, PostgreSQL
 
